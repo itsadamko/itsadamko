@@ -1,17 +1,31 @@
-# Hi, I'm Adamko! 👋
+# Adam Hölzl / ADAMKO
 
-## About Me
-I'm a graphic designer and AI geek based in Prague, Czechia. I'm passionate about creating visually stunning designs and exploring the fascinating field of artificial intelligence. Here's a little more about me:
+Digital experiences that earn trust.
 
-- 👀 I’m interested in graphic design, AI, and technology.
-- 🌱 I’m currently learning new design techniques and diving deeper into AI applications.
-- 💞️ I’m looking to collaborate on creative projects that combine design and AI.
-- 📫 How to reach me: Visit my website [itsadamko.com](https://www.itsadamko.com) or connect with me on social media.
+I work at the intersection of brand, web, motion and AI, helping founder-led businesses build digital products and identities that feel coherent from the first impression to the last interaction.
 
-## Get in Touch
-Feel free to reach out to me if you have any questions, project ideas, or just want to connect. You can find me on the following platforms:
+## What I'm working on
 
-- Website: [itsadamko.com](https://www.itsadamko.com)
-- Instagram: [@itsadamko](https://www.instagram.com/itsadamko)
-- Twitter: [@itsadamko](https://twitter.com/itsadamko)
-- LinkedIn: [itsadamko](https://www.linkedin.com/in/itsadamko)
+- Brand identities
+- Websites & digital experiences
+- Motion design
+- AI-assisted creative workflows
+- Creative systems & automation
+
+## Philosophy
+
+Good design isn't decoration.
+
+It's a system that shapes perception, builds trust and helps businesses communicate who they've already become.
+
+AI is part of my workflow, never the destination.
+
+## Find me
+
+🌐 Website — https://itsadamko.com
+
+𝕏 X — https://x.com/itsadamko
+
+📷 Instagram — https://instagram.com/itsadamko
+
+💼 LinkedIn — https://linkedin.com/in/itsadamko
