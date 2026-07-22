@@ -1,6 +1,4 @@
-# Adam Hölzl / ADAMKO
-
-Digital experiences that earn trust.
+# Hi, I'm ADAMKO!
 
 I work at the intersection of brand, web, motion and AI, helping founder-led businesses build digital products and identities that feel coherent from the first impression to the last interaction.
 
