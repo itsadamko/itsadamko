@@ -13,9 +13,7 @@ I work at the intersection of brand, web, motion and AI, helping founder-led bus
 ## Philosophy
 
 Good design isn't decoration.
-
 It's a system that shapes perception, builds trust and helps businesses communicate who they've already become.
-
 AI is part of my workflow, never the destination.
 
 ## Find me
